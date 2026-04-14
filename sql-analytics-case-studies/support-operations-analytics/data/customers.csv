@@ -1,0 +1,9 @@
+customer_id,customer_name,plan_type,region,company_size,industry
+1001,BluePeak Labs,Pro,APAC,Small,Technology
+1002,Nova People Ops,Business,EMEA,Mid-Market,HR
+1003,Lighthouse Health,Enterprise,NA,Enterprise,Healthcare
+1004,Orbit Retail,Pro,APAC,Small,Retail
+1005,Silverline Talent,Business,NA,Mid-Market,Recruiting
+1006,Aster Legal,Enterprise,EMEA,Enterprise,Legal
+1007,Northwind Edu,Free,APAC,Small,Education
+1008,Vertex Commerce,Business,NA,Mid-Market,E-commerce
