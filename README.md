@@ -7,6 +7,18 @@ The goal is to simulate how a support operations or product operations team migh
 
 ---
 
+## SQL Skills Demonstrated
+- Joins
+- Aggregate functions
+- CASE statements
+- CTEs
+- Window functions
+- Date/time calculations
+- SLA performance analysis
+- Business recommendations
+
+---
+
 ## Business Problem
 Support teams often deal with high ticket volume across multiple issue types, channels, and customer segments. Leadership needs to understand:
 
@@ -56,18 +68,6 @@ Contains agent and team metadata:
 - team
 - tenure
 - location
-
----
-
-## SQL Skills Demonstrated
-- filtering
-- grouping and aggregation
-- joins
-- CASE statements
-- CTEs
-- time-based calculations
-- window functions
-- business metric analysis
 
 ---
 
