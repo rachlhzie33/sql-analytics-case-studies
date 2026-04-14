@@ -125,3 +125,10 @@ Based on the analysis, a support operations team could consider:
 
 ## Why This Project Matters
 This case study demonstrates how SQL can be used not just to query data, but to generate operational insights that help teams make decisions about support workflows, customer experience, and process design.
+
+---
+
+## License
+This project is licensed under the MIT License.
+
+© 2026 Rachel L. Portfolio project created for analytics and systems engineering demonstration purposes.
